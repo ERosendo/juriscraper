@@ -46,6 +46,7 @@ class ACMSAttachmentPage(BaseReport):
                     "description": row['name'],
                     "page_count": row['billablePages'],
                     "pacer_doc_id": docket_entry["docketEntryId"],
+                    "acms_document_guid": row['docketDocumentDetailsId']
                 }
             )
 

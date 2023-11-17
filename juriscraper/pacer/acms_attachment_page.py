@@ -37,6 +37,7 @@ class ACMSAttachmentPage(BaseReport):
         result = {
             "pacer_doc_id": docket_entry["docketEntryId"],
             "pacer_case_id": case_details["caseId"],
+            "entry_number": docket_entry["entryNumber"],
             "attachments": [],
         }
 

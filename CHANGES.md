@@ -16,6 +16,88 @@ Releases are also tagged in git, if that's helpful.
 
 ## Current
 
+**2.5.67 - 2023-11-20**
+
+Features:
+
+- Fix Connecticut Court of Appeals
+
+Changes:
+
+-
+
+## Past
+
+**2.5.66 - 2023-11-19**
+
+Features:
+
+- Fix Oklahoma Scrapers
+
+Changes:
+
+-
+**2.5.65 - 2023-11-19**
+
+Features:
+
+-
+
+Changes:
+
+- Remove selenium from Colorado scrapers
+
+**2.5.64 - 2023-11-19**
+
+Features:
+
+-
+
+Changes:
+
+- Fix alabama to remove selenium
+
+
+**2.5.63 - 2023-11-18**
+
+Features:
+
+
+Changes:
+
+- Fix Scotus Slip Opinions
+
+**2.5.62 - 2023-11-18**
+
+Features:
+
+
+Changes:
+
+- Fix NH Supreme Court
+
+
+**2.5.60 - 2023-11-18**
+
+Features:
+
+- Add Oregon Court of Appeals
+
+Changes:
+
+- Fix Oregon Supreme Court
+
+
+**2.5.59 - 2023-11-18**
+
+Features:
+
+
+Changes:
+
+- Fix Most remaining downed scrapers
+- Fix mismatched court_ids
+
 **2.5.58 - 2023-11-13**
 
 Features:
@@ -24,8 +106,6 @@ Features:
 Changes:
 
 - Fix 40 or so scrapers -- all state scrapers
-
-## Past
 
 **2.5.57 - 2023-11-09**
 
